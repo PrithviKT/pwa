@@ -58,5 +58,14 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
+  ],
+  "shortcuts": [
+    {
+      "name": "Coalition Directory",
+      "short_name": "Coalition Directory",
+      "description": "View Coalition Directory to Collaborate",
+      "url": "#/?source=pwa",
+      "icons": [{ "src": "assets/icons/icon-144x144.png", "sizes": "144x144" }]
+    }
   ]
 }
