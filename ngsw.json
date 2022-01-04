@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1641285298788,
-  "index": "https://github.optum.com/pages/pkt1/pwa/index.html",
+  "timestamp": 1641289872949,
+  "index": "https://prithvikt.github.io/pwa/index.html",
   "assetGroups": [
     {
       "name": "PWA APP",
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.optum.com/pages/pkt1/pwa/favicon.ico",
-        "https://github.optum.com/pages/pkt1/pwa/index.html",
-        "https://github.optum.com/pages/pkt1/pwa/main.a28c30645b72bdd60820.js",
-        "https://github.optum.com/pages/pkt1/pwa/manifest.webmanifest",
-        "https://github.optum.com/pages/pkt1/pwa/ngsw-worker.js",
-        "https://github.optum.com/pages/pkt1/pwa/polyfills.a0b24678fbbf7989c7ac.js",
-        "https://github.optum.com/pages/pkt1/pwa/runtime.f968cfbc393acbadb4a7.js",
-        "https://github.optum.com/pages/pkt1/pwa/styles.e9375f302bd4d38eaf7b.css",
-        "https://github.optum.com/pages/pkt1/pwa/vendor.8b852b3bc0e278def417.js"
+        "https://prithvikt.github.io/pwa/favicon.ico",
+        "https://prithvikt.github.io/pwa/index.html",
+        "https://prithvikt.github.io/pwa/main.917af245ab85eca2a5ee.js",
+        "https://prithvikt.github.io/pwa/manifest.webmanifest",
+        "https://prithvikt.github.io/pwa/ngsw-worker.js",
+        "https://prithvikt.github.io/pwa/polyfills.a0b24678fbbf7989c7ac.js",
+        "https://prithvikt.github.io/pwa/runtime.f968cfbc393acbadb4a7.js",
+        "https://prithvikt.github.io/pwa/styles.e9375f302bd4d38eaf7b.css",
+        "https://prithvikt.github.io/pwa/vendor.8b852b3bc0e278def417.js"
       ],
       "patterns": []
     },
@@ -31,37 +31,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-128x128.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-144x144.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-152x152.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-192x192.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-384x384.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-512x512.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-72x72.png",
-        "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-96x96.png"
+        "https://prithvikt.github.io/pwa/assets/icons/icon-128x128.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-144x144.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-152x152.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-192x192.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-384x384.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-512x512.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-72x72.png",
+        "https://prithvikt.github.io/pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://github.optum.com/pages/pkt1/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://github.optum.com/pages/pkt1/pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.optum.com/pages/pkt1/pwa/index.html": "8cbec748e54875130ca00b7751b44efb234316ff",
-    "https://github.optum.com/pages/pkt1/pwa/main.a28c30645b72bdd60820.js": "73fc90e8d45a862c139337ff3973094ab9604638",
-    "https://github.optum.com/pages/pkt1/pwa/manifest.webmanifest": "a972ebe26a064924fbea45491d1a271102956ba1",
-    "https://github.optum.com/pages/pkt1/pwa/ngsw-worker.js": "b2569707aec44654ac0a5f8b6f09cce26580bd13",
-    "https://github.optum.com/pages/pkt1/pwa/polyfills.a0b24678fbbf7989c7ac.js": "9198b0421630644a8f21cf2a0ad3396092458065",
-    "https://github.optum.com/pages/pkt1/pwa/runtime.f968cfbc393acbadb4a7.js": "dd26d4880fb1b5184be022252bdc0b9484491354",
-    "https://github.optum.com/pages/pkt1/pwa/styles.e9375f302bd4d38eaf7b.css": "ac7022fa4319c33976fb475765da34c4f4636a4a",
-    "https://github.optum.com/pages/pkt1/pwa/vendor.8b852b3bc0e278def417.js": "33782e25ddde49930aff97eb17f53261cf4df8f7"
+    "https://prithvikt.github.io/pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://prithvikt.github.io/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://prithvikt.github.io/pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://prithvikt.github.io/pwa/index.html": "fe6d22b2a4e2688c2fd5124d1fc78270f05f8f16",
+    "https://prithvikt.github.io/pwa/main.917af245ab85eca2a5ee.js": "f8bb1f476508412d5a451c22756a7766a6dc26be",
+    "https://prithvikt.github.io/pwa/manifest.webmanifest": "a972ebe26a064924fbea45491d1a271102956ba1",
+    "https://prithvikt.github.io/pwa/ngsw-worker.js": "b2569707aec44654ac0a5f8b6f09cce26580bd13",
+    "https://prithvikt.github.io/pwa/polyfills.a0b24678fbbf7989c7ac.js": "9198b0421630644a8f21cf2a0ad3396092458065",
+    "https://prithvikt.github.io/pwa/runtime.f968cfbc393acbadb4a7.js": "dd26d4880fb1b5184be022252bdc0b9484491354",
+    "https://prithvikt.github.io/pwa/styles.e9375f302bd4d38eaf7b.css": "ac7022fa4319c33976fb475765da34c4f4636a4a",
+    "https://prithvikt.github.io/pwa/vendor.8b852b3bc0e278def417.js": "33782e25ddde49930aff97eb17f53261cf4df8f7"
   },
   "navigationUrls": [
     {
